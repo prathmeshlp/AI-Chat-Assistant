@@ -78,8 +78,10 @@ The main interface will be a flexbox layout that transitions to a grid on larger
 
 1.  **Clone the repository:**
     
-    git clone <your-repo-url>
-    cd your-ai-app
+    Chat Assistant - git clone https://github.com/prathmeshlp/AI-Chat-Assistant 
+    Storybook - git clone https://github.com/prathmeshlp/Ai-Chat-Clone-Storybook
+    cd AI-Chat-Assistant 
+    cd Ai-Chat-Clone-Storybook
 
 
 2.  **Install dependencies:**
